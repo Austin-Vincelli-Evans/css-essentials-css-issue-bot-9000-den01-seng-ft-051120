@@ -1,5 +1,5 @@
 body {
-  background: pink;
+  background: #ccc;
   text-decoration: underline;
 }
 
@@ -19,7 +19,7 @@ h2 {
 }
 
 #tasks.completed {
-  background: pink;
+  background: #ccc;
   text-decoration: underline;
 }
 
